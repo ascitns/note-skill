@@ -25,7 +25,7 @@
 - 最重要的其实是去AI味，作为一个**浪荡不羁桀骜不驯**的人，我最**讨厌**的就是想利用ai学习时还要被**装腔作势**地教学
 - 优化了笔记**结构**和**排版**稳定性
 
-###  怎么作
+###  怎么做
 
 在 Claude Code 中，将教材 PDF 放入工作目录后直接说：
 
@@ -64,3 +64,17 @@ note-skill/
     └── fix_diagram_pages.py
 ```
 
+## 小样
+
+以下为 Typora 中渲染的笔记效果：
+
+<table>
+<tr>
+<td><img src="demo/demo1.png" width="400"></td>
+<td><img src="demo/demo2.png" width="400"></td>
+</tr>
+<tr>
+<td><img src="demo/demo3.png" width="400"></td>
+<td><img src="demo/demo4.png" width="400"></td>
+</tr>
+</table>
